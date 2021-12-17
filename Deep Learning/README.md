@@ -30,7 +30,7 @@ AraBert performed amazingly will dispaite some documents being very short and so
 ![dash2](https://github.com/FancyWhale69/T5_AuthorAttribution/raw/main/aa2.PNG)  
 
 # Acknowledgment  
-I would like to thank my teammates [Ahmed Al-Jimiai](https://github.com/AAljmiai)  , and [Abdultawwab Safarji](https://github.com/A-safarji) for their amazing work and support.
+I would like to thank my teammates [Hazim Bukhari](https://github.com/FancyWhale69)  , and [Abdultawwab Safarji](https://github.com/A-safarji) for their amazing work and support.
 And a special thanks for [SDAIA](https://sourceforge.net/projects/tashkeela/) for providing the dataset.
 
 # Team Memebers
