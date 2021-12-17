@@ -6,6 +6,8 @@
 ## Try our model on the following link :) 
 * https://share.streamlit.io/entaim/classification/main
 
+# Project's Summery
+
 <p align="center">
   <img width="460" height="300" src="https://github.com/jennansowayan/Arabic_Handwriting_recognition/blob/main/logo/v2030.png?raw=true">
 </p>
