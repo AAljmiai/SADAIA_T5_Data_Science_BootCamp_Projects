@@ -19,8 +19,20 @@ Code_Slides_writeup- Folder containing the project's notebook (in code folder), 
 # How To Interact With Your Project  
 Open the notebook in jupyter notebook to view the code and technical details, or read the slides for a quick view about our findings, or visit the project's [website](https://share.streamlit.io/a-safarji/books-recommnder-/main/basedon_user.py).  
 
-# ِAdditional Information  
-[Recommender System](https://github.com/A-safarji/Books-Recommnder-)
+# Books Recommender System (BRS)  
+On the top of AA, we create a recommnder system to tell what books are similar from the transformer output or user input.
+
+
+Online Now :[With Arabic Books Recommnder](https://share.streamlit.io/a-safarji/books-recommnder-/main/basedon_user.py)
+
+
+![live-demo](https://user-images.githubusercontent.com/20365333/145676438-d1fd4105-fc14-4f57-9a43-eabf33f69876.gif)
+
+
+
+
+
+[Watch the video](https://streamable.com/7kjspy)
 
 
 # Results Summery  
