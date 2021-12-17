@@ -34,6 +34,6 @@ I would like to thank my teammates [Hazim Bukhari](https://github.com/FancyWhale
 And a special thanks for [SDAIA](https://sourceforge.net/projects/tashkeela/) for providing the dataset.
 
 # Team Memebers
-* [Hazim Bukhari](https://github.com/FancyWhale69)  
 * [Ahmed Aljmiai](https://github.com/AAljmiai)  
 * [Abdultawwab Safarji](https://github.com/A-safarji)
+* [Hazim Bukhari](https://github.com/FancyWhale69)  
