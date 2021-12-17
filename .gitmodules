@@ -1,3 +1,6 @@
 [submodule "Classification/Arabic_Handwriting_recognition"]
 	path = Classification/Arabic_Handwriting_recognition
 	url = https://github.com/jennansowayan/Arabic_Handwriting_recognition
+[submodule "Classification/streamlit_deployment"]
+	path = Classification/streamlit_deployment
+	url = https://github.com/AAljmiai/Classification
