@@ -1,4 +1,4 @@
-# Handwritten Arabic characters Classification Model
+# Arabic Handwritten Characters Recognition Model
 
 * main project's repo: https://github.com/jennansowayan/Arabic_Handwriting_recognition
 * Deployment repo: https://github.com/AAljmiai/Classification
