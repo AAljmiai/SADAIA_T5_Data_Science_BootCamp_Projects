@@ -1,5 +1,9 @@
-* https://github.com/jennansowayan/Arabic_Handwriting_recognition
-* https://github.com/AAljmiai/Classification
+# Handwritten Arabic characters Classification Model
+
+* main project's repo: https://github.com/jennansowayan/Arabic_Handwriting_recognition
+* Deployment repo: https://github.com/AAljmiai/Classification
+* * Try our model on the following link :) 
+* https://share.streamlit.io/entaim/classification/main
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/jennansowayan/Arabic_Handwriting_recognition/blob/main/logo/v2030.png?raw=true">
@@ -15,9 +19,6 @@ Questions:
 -  Is building a classifier that recognizes Arabic characters with all possible forms
 ofthelettere.g.‘ـذ،ذ’doable ?
 -  Can handwritten documents get digitized into a typed document?
--  
-* Try our model on the following link :) 
-* https://share.streamlit.io/entaim/classification/main
 
 ## Here are some examples using a Computer Mouse:
 
