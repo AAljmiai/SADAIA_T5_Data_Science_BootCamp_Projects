@@ -5,8 +5,7 @@ Have deploied a distrbuted deep learning (DDL) model on Google TPUs backend inst
 * Orgnized repo for BRS (Thanks to Abdtawab): https://github.com/A-safarji/Books-Recommnder-
 * DDL Colab Demo: https://github.com/FancyWhale69/AothurShip/blob/author_attr_ahmed/Best_ARABERT_FOR_AA.ipynb
 
-#Project Summery:
-# T5_AuthorAttribution
+# part#1, Author Atrrbution (AA)
 
 # Project Motivation  
 The Arabic langauge is a big challenge in the NLP domian because of its huge vocabulary and versatility, in addition it does not get enough attention making it a difficult challenge to overcome. Therefore King Fahad library is looking for a way to help visitors find Arabic authors based on the author’s writing style and recommend books with similar writing style to get more people into reading by helping them finding books from a certain writing style.  
@@ -19,7 +18,13 @@ Code_Slides_writeup- Folder containing the project's notebook (in code folder), 
 # How To Interact With Your Project  
 Open the notebook in jupyter notebook to view the code and technical details, or read the slides for a quick view about our findings, or visit the project's [website](https://share.streamlit.io/a-safarji/books-recommnder-/main/basedon_user.py).  
 
-# Books Recommender System (BRS)  
+# Results Summery  
+AraBert performed amazingly will dispaite some documents being very short and some authores having 2-3 huge books.  
+![dash](https://github.com/FancyWhale69/T5_AuthorAttribution/raw/main/aa1.PNG)  
+
+![dash2](https://github.com/FancyWhale69/T5_AuthorAttribution/raw/main/aa2.PNG)  
+
+# part#2, Books Recommender System (BRS)  
 On the top of AA, we create a recommnder system to tell what books are similar from the transformer output or user input.
 
 
@@ -34,12 +39,6 @@ Online Now :[With Arabic Books Recommnder](https://share.streamlit.io/a-safarji/
 
 [Watch the video](https://streamable.com/7kjspy)
 
-
-# Results Summery  
-AraBert performed amazingly will dispaite some documents being very short and some authores having 2-3 huge books.  
-![dash](https://github.com/FancyWhale69/T5_AuthorAttribution/raw/main/aa1.PNG)  
-
-![dash2](https://github.com/FancyWhale69/T5_AuthorAttribution/raw/main/aa2.PNG)  
 
 # Acknowledgment  
 I would like to thank my teammates [Hazim Bukhari](https://github.com/FancyWhale69)  , and [Abdultawwab Safarji](https://github.com/A-safarji) for their amazing work and support.
