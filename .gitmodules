@@ -4,3 +4,9 @@
 [submodule "Classification/streamlit_deployment"]
 	path = Classification/streamlit_deployment
 	url = https://github.com/AAljmiai/Classification
+[submodule "Deep Learning/AA"]
+	path = Deep Learning/AA
+	url = https://github.com/FancyWhale69/T5_AuthorAttribution
+[submodule "Deep Learning/BRS"]
+	path = Deep Learning/BRS
+	url = https://github.com/A-safarji/Books-Recommnder-
