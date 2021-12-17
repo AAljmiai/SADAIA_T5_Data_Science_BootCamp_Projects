@@ -9,4 +9,4 @@ Here are all the projects of SADAIA BootCamp:
 * [NLP](https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/tree/main/NLP): Online Crypto Trader Assistent.
 * [Classification](https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/tree/main/Classification): Arabic Handwriting Recognition.
 * [Regression](https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/tree/main/Regression): Riyadh Real Estate Advertising Price Prediction.
-* [EDA](https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/tree/main/EDA): Distrbution plan of Breastfeeding rooms & info desks in NY using MTA Turnstile.
+* [EDA](https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/tree/main/EDA): Distrbution Plan of Breastfeeding Rooms & Info. Desks in NY (MTA Turnstile Dataset).
