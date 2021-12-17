@@ -2,7 +2,8 @@
 
 * main project's repo: https://github.com/jennansowayan/Arabic_Handwriting_recognition
 * Deployment repo: https://github.com/AAljmiai/Classification
-* * Try our model on the following link :) 
+
+## Try our model on the following link :) 
 * https://share.streamlit.io/entaim/classification/main
 
 <p align="center">
