@@ -7,7 +7,7 @@ Have deploied a distrbuted deep learning (DDL) model on Google TPUs backend inst
 * BRS website: https://share.streamlit.io/a-safarji/books-recommnder-/main/basedon_user.py 
 
 
-# part#1, Author Atrrbution (AA)
+# PART#1, Author Atrrbution (AA)
 
 ### Project Motivation  
 The Arabic langauge is a big challenge in the NLP domian because of its huge vocabulary and versatility, in addition it does not get enough attention making it a difficult challenge to overcome. Therefore King Fahad library is looking for a way to help visitors find Arabic authors based on the author’s writing style and recommend books with similar writing style to get more people into reading by helping them finding books from a certain writing style.  
@@ -26,7 +26,7 @@ AraBert performed amazingly will dispaite some documents being very short and so
 
 ![dash2](https://github.com/FancyWhale69/T5_AuthorAttribution/raw/main/aa2.PNG)  
 
-# part#2, Books Recommender System (BRS)  
+# PART#2, Books Recommender System (BRS)  
 On the top of AA, we create a recommnder system to tell what books are similar from the transformer output or user input.
 
 
