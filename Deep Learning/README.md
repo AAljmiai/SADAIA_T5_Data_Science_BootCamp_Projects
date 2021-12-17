@@ -25,7 +25,15 @@ Open the notebook in jupyter notebook to view the code and technical details, or
 
 # Results Summery  
 AraBert performed amazingly will dispaite some documents being very short and some authores having 2-3 huge books.  
-![dash](aa1.PNG)  
+![dash](https://github.com/FancyWhale69/T5_AuthorAttribution/raw/main/aa1.PNG)  
 
-![dash2](aa2.PNG)  
+![dash2](https://github.com/FancyWhale69/T5_AuthorAttribution/raw/main/aa2.PNG)  
 
+# Acknowledgment  
+I would like to thank my teammates [Ahmed Al-Jimiai](https://github.com/AAljmiai)  , and [Abdultawwab Safarji](https://github.com/A-safarji) for their amazing work and support.
+And a special thanks for [SDAIA](https://sourceforge.net/projects/tashkeela/) for providing the dataset.
+
+# Team Memebers
+* [Hazim Bukhari](https://github.com/FancyWhale69)  
+* [Ahmed Aljmiai](https://github.com/AAljmiai)  
+* [Abdultawwab Safarji](https://github.com/A-safarji)
