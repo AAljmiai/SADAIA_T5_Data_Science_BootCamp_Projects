@@ -3,8 +3,9 @@ Have deploied a distrbuted deep learning (DDL) model on Google TPUs backend inst
 
 * Orgnized repo for AA project (Thanks to Hazim): https://github.com/FancyWhale69/T5_AuthorAttribution
 * Orgnized repo for BRS (Thanks to Abdtawab): https://github.com/A-safarji/Books-Recommnder-
-* DDL Colab Demo: https://github.com/FancyWhale69/AothurShip/blob/author_attr_ahmed/Best_ARABERT_FOR_AA.ipynb
-
+* AA DDL Colab Demo: https://github.com/FancyWhale69/AothurShip/blob/author_attr_ahmed/Best_ARABERT_FOR_AA.ipynb
+* BRS website: https://share.streamlit.io/a-safarji/books-recommnder-/main/basedon_user.py 
+* 
 # part#1, Author Atrrbution (AA)
 
 ### Project Motivation  
