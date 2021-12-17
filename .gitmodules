@@ -1,0 +1,3 @@
+[submodule "Classification/Arabic_Handwriting_recognition"]
+	path = Classification/Arabic_Handwriting_recognition
+	url = https://github.com/jennansowayan/Arabic_Handwriting_recognition
