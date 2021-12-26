@@ -1,4 +1,4 @@
-# Author Atrrbution (AA) and Books Recommender System (BRS)
+# Author Attribution (AA) and Books Recommender System (BRS)
 Have deploied a distrbuted deep learning (DDL) model on Google TPUs backend instead of a GPU for Author Atrbution using Arabert transformer. This decrease the taining time from days to few hours. Please refere to the slides in the project repo.
 
 * Orgnized repo for AA project (Thanks to [Hazim Bukhari](https://github.com/FancyWhale69)): https://github.com/FancyWhale69/T5_AuthorAttribution
@@ -7,7 +7,7 @@ Have deploied a distrbuted deep learning (DDL) model on Google TPUs backend inst
 * BRS website: https://share.streamlit.io/a-safarji/books-recommnder-/main/basedon_user.py 
 
 
-# PART#1, Author Atrrbution (AA)
+# PART#1, Author Attribution (AA)
 
 ### Project Motivation  
 The Arabic langauge is a big challenge in the NLP domian because of its huge vocabulary and versatility, in addition it does not get enough attention making it a difficult challenge to overcome. Therefore King Fahad library is looking for a way to help visitors find Arabic authors based on the author’s writing style and recommend books with similar writing style to get more people into reading by helping them finding books from a certain writing style.  
