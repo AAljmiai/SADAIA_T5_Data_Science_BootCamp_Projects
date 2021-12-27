@@ -48,6 +48,9 @@ The lack of ready-made data or the ability to access it is difficult; however, m
 - Scikit-learn for modeling
 - Matplotlib for plotting
 
+## Results
+
+<img src= https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/Regression/results.png />
 
 ## Communication
 
