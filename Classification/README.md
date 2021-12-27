@@ -1,6 +1,7 @@
 # Arabic Handwritten Characters Recognition Model
 
-* main project's repo: https://github.com/jennansowayan/Arabic_Handwriting_recognition
+* Presentation link: [click here](https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/blob/main/Classification/Presentation/Handwritten%20Classification.pdf)
+* Main project's repo: https://github.com/jennansowayan/Arabic_Handwriting_recognition
 * Deployment repo: https://github.com/AAljmiai/Classification
 
 ## Try our model on the following link :) 
