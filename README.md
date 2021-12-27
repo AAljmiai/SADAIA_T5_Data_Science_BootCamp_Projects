@@ -22,7 +22,7 @@
 
 </p>  
 
-## SADAIA_T5_Data_Science_BootCamp_Projects
+## SADAIA T5 Data Science BootCamp Projects
 Here are all my contributions to the projects of SADAIA BootCamp:
 
 
