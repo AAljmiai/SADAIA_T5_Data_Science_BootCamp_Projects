@@ -15,9 +15,8 @@
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-%231a73e8.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-
+<img src=https://img.shields.io/badge/postgreSQL-%234169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white alt=postgresql style="margin-bottom: 5px;" />
 
 
 </p>  
