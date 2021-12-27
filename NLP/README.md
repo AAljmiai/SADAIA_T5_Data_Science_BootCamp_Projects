@@ -13,12 +13,12 @@ the market?
 ## Solution
 * Live web app Link: [click here](https://share.streamlit.io/jennansowayan/nlp_cryptocurrency/main)
 
-### Screenshots
-* BTC
+# Screenshots
+### BTC
 <img src="https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/NLP/Screenshots/BTC.png" />
-* ATOM
+### ATOM
 <img src="https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/NLP/Screenshots/ATOM.png" />
-* BCH
+### BCH
 <img src="https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/NLP/Screenshots/BCH.png" />
 
 # Team Memebers
