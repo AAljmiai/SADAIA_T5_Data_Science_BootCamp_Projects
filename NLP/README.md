@@ -15,13 +15,13 @@ the market?
 
 ## Screenshots
 ### BTC
-<img src="https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/NLP/Screenshots/BTC.png" style="vertical-align:middle" />
+<p align="center"> <img src="https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/NLP/Screenshots/BTC.png" /></p>
 
 ### ATOM
-<img src="https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/NLP/Screenshots/ATOM.png" style="vertical-align:middle" />
+<p align="center"><img src="https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/NLP/Screenshots/ATOM.png" /></p>
 
 ### BCH
-<img src="https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/NLP/Screenshots/BCH.png" style="vertical-align:middle" />
+<p align="center"><img src="https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/NLP/Screenshots/BCH.png" /></p>
 
 # Team Memebers
 * [Ahmed Aljmiai](https://github.com/AAljmiai)  
