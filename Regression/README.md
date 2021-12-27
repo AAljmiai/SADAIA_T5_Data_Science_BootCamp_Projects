@@ -11,9 +11,7 @@ The owner of the house or villa intends to offer it for sale. But he does not kn
 
 
 ## Solution:
-A startup company in the field of data science called Itqan Cube consisting of Ahmed, Afrah, Abdullah and Omar
-
-Embracing the problem and thinking about creating a website or program that makes a prediction of the average price of a house or villa using linear regression
+A startup company in the field of data science called Itqan Cube has the following team members:Ahmed, Afrah, Abdullah and Omar, tacklling the problem and thinking about deploying a web/mobile app that makes a prediction of the advertising average price of a house or villa using linear regression.
 
 ## Project Components
 
@@ -24,7 +22,7 @@ Embracing the problem and thinking about creating a website or program that make
 
 ## Data
 
-The lack of ready-made data or the ability to access it is difficult. Mainly we optain the data from The ministry of justice but we've done scraping for the following sites to megrate them and get more accurate data:
+The lack of ready-made data or the ability to access it is difficult; however, mainly we've optained the open data from The ministry of justice and the following sites to merge them and get more accurate data:
 
 - [Property Finder](https://www.propertyfinder.sa/)
 - [Bayut](https://www.bayut.sa/)
