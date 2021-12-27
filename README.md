@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white alt=C style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c++&logoColor=white alt=C++ style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?&style=for-the-badge&logo=apachespark&logoColor=white alt=Apache%20Spark style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/Apache%20Hadoop-%23E25A1C.svg?&style=for-the-badge&logo=Apache%20Hadoop&logoColor=white alt=Apache%20Hadoop style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Apache%20Hadoop-%2366CCFF.svg?&style=for-the-badge&logo=Apache%20Hadoop&logoColor=yellow alt=Apache%20Hadoop style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/Elastic%20Search-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white alt=elasticsearch style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white alt=apachekafka style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/Kibana-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white alt=kibana style="margin-bottom: 5px;" />
