@@ -14,13 +14,13 @@ the market?
 * Live web app Link: [click here](https://share.streamlit.io/jennansowayan/nlp_cryptocurrency/main)
 
 ## Screenshots
-### BTC
+### BTC:
 <p align="center"> <img src="https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/NLP/Screenshots/BTC.png" /></p>
 
-### ATOM
+### ATOM:
 <p align="center"><img src="https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/NLP/Screenshots/ATOM.png" /></p>
 
-### BCH
+### BCH:
 <p align="center"><img src="https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/raw/main/NLP/Screenshots/BCH.png" /></p>
 
 # Team Memebers
