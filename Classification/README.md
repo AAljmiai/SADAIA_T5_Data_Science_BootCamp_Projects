@@ -43,3 +43,9 @@ ofthelettere.g.‘ـذ،ذ’doable ?
 <p align="center">
   <img src="https://github.com/AAljmiai/Classification/raw/main/iphone.gif">
 </p>
+
+
+## Team Memebers
+* [Ahmed Aljmiai](https://github.com/AAljmiai)  
+* [Fatma Alshaikh](https://github.com/entaim)
+* [Jennan Alsowayan](https://github.com/jennansowayan)  
