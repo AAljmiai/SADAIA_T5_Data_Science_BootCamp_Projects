@@ -18,9 +18,9 @@ Embracing the problem and thinking about creating a website or program that make
 ## Project Components
 
 - [Proposal]
+- [Demo code]
 - [Project]
 
-click here :https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/tree/main/Regression
 
 ## Data
 
