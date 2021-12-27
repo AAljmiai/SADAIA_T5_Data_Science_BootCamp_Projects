@@ -53,7 +53,7 @@ The lack of ready-made data or the ability to access it is difficult. Mainly we 
 
 ## Communication
 
-The slides and visuals presented uploaded [here]()
+The slides and visuals presented uploaded [here](https://github.com/AAljmiai/SADAIA_T5_Data_Science_BootCamp_Projects/blob/main/Regression/presentation/Regression.pdf)
 
 
 
