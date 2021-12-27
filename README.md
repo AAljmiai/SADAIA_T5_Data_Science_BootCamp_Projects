@@ -1,7 +1,7 @@
 # Ahmed Aljmiai
 <p>
 <img src=https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white alt=Python style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter alt=Jupyter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&logoColor=white alt=Jupyter style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/Kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white alt=Kotlin style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white alt=Java style="margin-bottom: 5px;" />
 <img src=https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white alt=C style="margin-bottom: 5px;" />
